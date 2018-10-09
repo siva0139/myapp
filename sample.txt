@@ -1,1 +1,3 @@
 this is first line in sample.txt
+this is second line in sample.txt
+
